@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @renzo-dev77
-- 👀 I’m interested in IoT, Arduino, microcontrolers, cloud computing, IA.
+- 👀 I’m interested in IoT, Arduino, microcontrolers, cloud computing, IA, blockchain.
 - 🌱 I’m currently learning interaction design
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: renzoalberto@protonmail.com
